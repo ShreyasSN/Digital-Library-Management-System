@@ -1,4 +1,4 @@
-# [Digital Library Management System]
+# Digital Library Management System
 
 Library management is always a challenging endeavor, and with the growing number of 
 students, improved library management is essential. The smart library management system 
